@@ -1,4 +1,6 @@
-import Annotations.*;
+package lesson7;
+
+import lesson7.Annotations.*;
 
 public class TestClass {
 

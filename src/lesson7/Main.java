@@ -1,8 +1,10 @@
+package lesson7;
+
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.ArrayList;
 
-import Annotations.*;
+import lesson7.Annotations.*;
 
 public class Main {
     public static void main(String[] args) throws InstantiationException, InvocationTargetException, IllegalAccessException {
